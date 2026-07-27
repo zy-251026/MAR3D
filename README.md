@@ -1,5 +1,5 @@
 <img width="1672" height="941" alt="brain_age_early_risk_illustration" src="https://github.com/user-attachments/assets/5578541c-f3bf-41c3-82a0-822526fdb55d" />
-##MAR3D
+## MAR3D
 
 Official implementation of **MAR3D**, an attention-based mid-level feature representation incorporated 3D residual neural network for brain age estimation from T1-weighted brain MRI.
 
