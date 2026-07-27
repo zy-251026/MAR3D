@@ -1,0 +1,316 @@
+INDI_ID,Age,Gender,EducationYears,What_is_your_race,Please_specify_your_race,What_is_your_ethnicity,HAND_Likert,MMSE,MonthsMRI-PET
+28374,55.62,f,19.0,White/Caucasian,,Non-hispanic,3.273,30,
+28545,72.25,f,18.0,White/Caucasian,,Non-hispanic,3.909,29,
+28344,69.81,f,12.0,White/Caucasian,,Non-hispanic,3.636,27,
+28392,54.85,f,18.0,Black/African American,,Non-hispanic,,30,
+28479,40.93,m,12.0,White/Caucasian,,Non-hispanic,3.545,28,
+28495,40.56,f,16.0,White/Caucasian,,Non-hispanic,3.636,30,
+28492,52.89,m,16.0,White/Caucasian,,Non-hispanic,3.727,29,
+28468,44.31,f,18.0,White/Caucasian,,Non-hispanic,3.727,28,
+28592,40.97,f,18.0,White/Caucasian,,Non-hispanic,4.0,30,
+28419,78.87,f,14.0,White/Caucasian,,Non-hispanic,4.0,28,
+28550,22.17,f,17.0,White/Caucasian,,Non-hispanic,3.273,29,
+28632,59.96,f,18.0,White/Caucasian,,Non-hispanic,3.636,30,
+28352,29.84,f,18.0,Other,,Hispanic/Latin(o/a),4.0,30,
+28366,23.53,f,17.0,White/Caucasian,,Non-hispanic,3.182,30,
+28429,42.63,f,15.0,White/Caucasian,,Non-hispanic,3.818,27,
+28456,53.75,m,21.0,White/Caucasian,,Non-hispanic,3.364,29,
+28593,62.06,f,18.0,White/Caucasian,,Non-hispanic,3.636,27,
+28549,21.45,f,15.0,White/Caucasian,,Non-hispanic,3.364,30,
+28617,50.6,f,21.0,White/Caucasian,,Non-hispanic,4.0,30,
+28340,67.83,f,18.0,White/Caucasian,,Non-hispanic,3.909,30,
+28349,64.17,m,21.0,Black/African American,,Non-hispanic,4.0,27,
+28505,20.75,m,11.0,White/Caucasian,,Non-hispanic,3.455,26,
+28463,68.35,f,14.0,White/Caucasian,,Non-hispanic,4.0,29,
+28603,35.96,m,16.0,White/Caucasian,,Non-hispanic,3.636,30,
+28441,45.18,m,14.0,White/Caucasian,,Non-hispanic,3.818,28,
+28428,45.85,f,14.0,White/Caucasian,,Non-hispanic,3.727,28,
+28523,49.68,m,16.0,White/Caucasian,,Non-hispanic,3.091,27,
+28357,56.36,f,16.0,White/Caucasian,,Non-hispanic,3.727,29,9.07
+28574,50.35,m,16.0,White/Caucasian,,Non-hispanic,4.0,29,
+28499,51.56,m,16.0,White/Caucasian,,Non-hispanic,3.909,29,1.07
+28569,67.65,m,14.0,White/Caucasian,,Non-hispanic,3.818,28,
+28385,61.53,f,17.0,White/Caucasian,,Non-hispanic,3.636,29,
+28381,24.24,f,16.0,White/Caucasian,,Non-hispanic,3.364,27,
+28631,29.92,f,21.0,White/Caucasian,,Non-hispanic,4.0,28,
+28500,32.85,m,18.0,White/Caucasian,,Non-hispanic,3.455,27,11.23
+28326,66.42,m,16.0,White/Caucasian,,Non-hispanic,3.636,26,15.97
+28628,51.81,m,12.0,Multiracial,,Non-hispanic,3.818,28,
+28461,53.95,f,18.0,White/Caucasian,,Non-hispanic,3.091,30,0.3
+28560,57.03,f,18.0,White/Caucasian,,,4.0,30,
+28532,34.11,f,21.0,White/Caucasian,,Non-hispanic,4.0,27,11.53
+28520,65.52,f,17.0,White/Caucasian,,Non-hispanic,3.909,29,
+28528,53.43,m,16.0,White/Caucasian,,Non-hispanic,3.727,28,
+28438,85.99,m,21.0,White/Caucasian,,Non-hispanic,3.636,26,
+28424,77.79,f,14.0,White/Caucasian,,Non-hispanic,3.364,29,
+28600,70.31,m,21.0,White/Caucasian,,Non-hispanic,3.545,27,
+28636,65.12,f,12.0,Black/African American,,Non-hispanic,4.0,29,14.6
+28368,79.65,m,16.0,White/Caucasian,,Non-hispanic,4.0,29,
+28388,82.93,m,16.0,White/Caucasian,,Non-hispanic,0.818,29,12.87
+28333,76.45,f,13.0,White/Caucasian,White,Non-hispanic,4.0,26,
+28413,81.57,f,16.0,White/Caucasian,,Non-hispanic,3.818,27,
+28615,80.95,f,18.0,White/Caucasian,,Non-hispanic,4.0,27,3.37
+28457,75.67,m,17.0,White/Caucasian,,Non-hispanic,4.0,29,12.2
+28399,70.68,f,18.0,White/Caucasian,,Non-hispanic,3.636,28,
+28339,65.23,f,14.0,White/Caucasian,,Non-hispanic,4.0,29,
+28639,74.96,f,15.0,White/Caucasian,,Non-hispanic,3.727,29,12.63
+28474,83.7,f,14.0,White/Caucasian,White,Non-hispanic,4.0,28,4.53
+28480,40.26,f,16.0,White/Caucasian,,Non-hispanic,3.273,29,17.0
+28616,61.54,f,14.0,White/Caucasian,White,Non-hispanic,4.0,29,15.2
+28488,41.33,f,16.0,White/Caucasian,,Non-hispanic,3.727,28,
+28537,62.2,f,16.0,White/Caucasian,,Non-hispanic,3.909,29,16.33
+28358,66.63,m,14.0,White/Caucasian,,Non-hispanic,4.0,29,14.33
+28378,69.19,f,14.0,White/Caucasian,,Non-hispanic,3.727,27,13.47
+28557,75.89,f,18.0,White/Caucasian,,Non-hispanic,3.818,28,9.77
+28396,67.74,m,18.0,White/Caucasian,,Non-hispanic,2.909,26,5.77
+28490,63.73,f,14.0,White/Caucasian,,Non-hispanic,3.636,27,8.87
+28590,70.79,f,12.0,White/Caucasian,,Non-hispanic,4.0,27,11.63
+28587,72.59,f,13.0,White/Caucasian,,Non-hispanic,3.818,28,
+28377,64.37,f,16.0,White/Caucasian,,Non-hispanic,4.0,26,
+28518,71.09,f,12.0,White/Caucasian,white,Non-hispanic,3.455,27,6.5
+28407,86.86,m,16.0,White/Caucasian,white,Non-hispanic,3.636,27,9.93
+28612,67.61,f,21.0,White/Caucasian,white,Non-hispanic,3.455,27,
+28542,69.59,f,18.0,White/Caucasian,white,Non-hispanic,3.636,30,
+28562,24.29,f,16.0,White/Caucasian,,Non-hispanic,3.364,30,
+28509,51.39,f,18.0,White/Caucasian,,Non-hispanic,3.818,27,8.17
+28365,22.82,f,16.0,White/Caucasian,,Non-hispanic,3.636,30,
+28558,24.83,f,16.0,White/Caucasian,,Non-hispanic,3.545,29,
+28599,62.14,f,18.0,White/Caucasian,White,Non-hispanic,3.818,29,19.77
+28578,87.34,m,16.0,White/Caucasian,White,Non-hispanic,4.0,27,
+28336,80.65,f,16.0,White/Caucasian,White,Non-hispanic,4.0,26,
+28434,70.1,f,18.0,White/Caucasian,White,Non-hispanic,4.0,30,
+28403,68.71,m,14.0,White/Caucasian,White,Non-hispanic,3.818,28,
+28471,67.47,f,14.0,White/Caucasian,White,Non-hispanic,3.545,29,
+28477,60.81,f,16.0,White/Caucasian,,Hispanic/Latin(o/a),3.636,30,
+28580,60.28,f,16.0,White/Caucasian,,Non-hispanic,3.182,27,
+28448,69.32,m,21.0,White/Caucasian,white,Non-hispanic,3.727,27,2.63
+28605,63.69,m,18.0,White/Caucasian,,Non-hispanic,4.0,30,15.23
+28421,67.05,m,21.0,White/Caucasian,,Non-hispanic,4.0,28,11.43
+28362,60.87,f,16.0,White/Caucasian,,Non-hispanic,4.0,30,11.73
+28354,75.42,m,18.0,White/Caucasian,,Non-hispanic,3.636,27,9.3
+28602,29.19,f,18.0,Black/African American,,Non-hispanic,3.545,29,
+28360,54.03,f,17.0,White/Caucasian,,Non-hispanic,4.0,28,
+28527,23.64,m,16.5,Other,Middle Eastern,Non-hispanic,3.364,30,
+28596,36.92,m,12.0,Black/African American,,Non-hispanic,4.0,27,
+28554,48.67,f,18.0,Black/African American,,Non-hispanic,4.0,29,7.33
+28515,50.9,f,16.0,White/Caucasian,white,Non-hispanic,3.545,28,17.03
+28625,60.37,f,18.0,White/Caucasian,white,Non-hispanic,3.909,27,
+28586,79.85,m,18.0,White/Caucasian,white,Non-hispanic,3.909,26,
+28572,75.37,m,16.0,White/Caucasian,white,Non-hispanic,3.636,28,9.43
+28335,71.34,m,21.0,White/Caucasian,white,Non-hispanic,3.545,29,11.33
+28577,65.52,m,17.0,White/Caucasian,white,Non-hispanic,3.545,29,5.43
+28401,54.05,f,16.0,White/Caucasian,,Non-hispanic,3.818,29,
+28408,20.7,f,14.5,White/Caucasian,,Non-hispanic,3.545,29,
+28412,20.89,m,12.0,Asian American/Pacific Islander,,Non-hispanic,4.0,26,
+28394,20.74,m,15.0,Asian American/Pacific Islander,,Non-hispanic,3.455,30,
+28425,23.02,m,15.0,Asian American/Pacific Islander,,Non-hispanic,3.182,29,
+28375,59.07,f,16.0,White/Caucasian,,Non-hispanic,4.0,27,
+28439,25.38,m,15.0,Asian American/Pacific Islander,,Non-hispanic,3.0,30,
+28476,65.91,f,18.0,White/Caucasian,white,Non-hispanic,2.727,29,9.4
+28519,64.79,m,18.0,Other,,Non-hispanic,2.091,29,
+28444,81.41,f,15.0,White/Caucasian,White,Non-hispanic,3.545,26,4.97
+28555,64.86,m,16.0,White/Caucasian,,,3.545,27,2.63
+28379,73.36,f,12.0,American Indian/Alaskan Native,American Indian| white,Non-hispanic,4.0,26,7.33
+28498,67.16,m,21.0,White/Caucasian,,Non-hispanic,4.0,29,7.1
+28414,68.45,f,16.0,White/Caucasian,,Non-hispanic,4.0,29,9.1
+28369,62.67,f,18.0,White/Caucasian,,Hispanic/Latin(o/a),4.0,27,7.77
+28576,32.92,f,18.0,Black/African American,,Non-hispanic,4.0,27,
+28470,43.19,f,15.0,White/Caucasian,,Non-hispanic,3.182,28,14.1
+28380,83.22,f,12.0,White/Caucasian,White,Non-hispanic,4.0,28,11.87
+28343,61.27,f,18.0,White/Caucasian,,Non-hispanic,3.636,28,10.97
+28565,80.84,m,16.0,White/Caucasian,,Non-hispanic,3.364,28,11.47
+28494,74.24,m,16.0,White/Caucasian,,Non-hispanic,3.909,26,13.07
+28409,70.68,m,17.0,White/Caucasian,white,Non-hispanic,3.273,27,9.3
+28611,46.79,f,18.0,White/Caucasian,,Non-hispanic,3.909,30,11.0
+28510,51.3,f,16.0,White/Caucasian,,Non-hispanic,4.0,27,6.9
+28570,63.31,f,18.0,White/Caucasian,,Non-hispanic,3.636,30,10.23
+28584,51.24,f,18.0,White/Caucasian,,Non-hispanic,4.0,28,
+28566,57.36,f,16.0,White/Caucasian,,Non-hispanic,4.0,28,8.9
+28521,39.74,f,16.0,White/Caucasian,,Non-hispanic,3.909,30,11.8
+28450,44.99,f,21.0,American Indian/Alaskan Native,,Non-hispanic,4.0,29,12.43
+28497,49.13,f,12.0,White/Caucasian,,Non-hispanic,3.545,26,7.13
+28398,83.33,m,18.0,White/Caucasian,,Non-hispanic,4.0,26,10.23
+28331,77.51,f,14.0,White/Caucasian,,Non-hispanic,4.0,26,8.03
+28400,49.92,m,16.0,White/Caucasian,,Non-hispanic,3.818,28,9.03
+28589,59.75,f,14.0,White/Caucasian,,Non-hispanic,3.364,29,7.77
+28447,51.78,m,18.0,White/Caucasian,,Non-hispanic,4.0,30,
+28638,70.98,f,14.0,White/Caucasian,,Non-hispanic,3.636,27,11.27
+28460,37.05,f,16.0,White/Caucasian,,Non-hispanic,3.364,28,
+28432,53.75,f,18.0,White/Caucasian,,Non-hispanic,3.818,28,6.9
+28561,49.51,f,21.0,White/Caucasian,white,Non-hispanic,3.818,28,
+28613,74.4,m,16.0,White/Caucasian,white,Non-hispanic,3.364,26,
+28389,33.45,m,21.0,White/Caucasian,,Non-hispanic,3.636,29,
+28420,81.2,f,16.0,White/Caucasian,white,Non-hispanic,4.0,27,9.87
+28543,81.28,f,12.0,White/Caucasian,white,Non-hispanic,3.364,27,
+28351,83.73,m,16.0,White/Caucasian,white,Non-hispanic,2.727,26,13.5
+28345,59.73,f,18.0,White/Caucasian,,Non-hispanic,3.182,30,6.67
+28376,70.6,f,18.0,White/Caucasian,,Non-hispanic,4.0,29,
+28541,45.8,f,14.0,White/Caucasian,white,Non-hispanic,3.545,30,15.27
+28622,24.6,f,16.0,White/Caucasian,,Non-hispanic,4.0,30,
+28530,49.86,f,16.0,White/Caucasian,,Non-hispanic,3.818,28,10.1
+28548,40.83,f,16.0,White/Caucasian,,Non-hispanic,3.818,30,
+28332,71.29,m,15.0,White/Caucasian,,Non-hispanic,3.909,26,
+28427,25.7,m,18.0,White/Caucasian,,Non-hispanic,3.364,29,
+28350,49.82,f,16.0,White/Caucasian,white,Non-hispanic,3.727,28,8.63
+28404,38.45,f,16.0,White/Caucasian,,Non-hispanic,4.0,27,
+28508,28.67,f,13.0,White/Caucasian,,Non-hispanic,3.455,26,
+28387,54.68,f,13.0,White/Caucasian,,Non-hispanic,4.0,28,7.8
+28591,86.25,m,17.0,White/Caucasian,,Non-hispanic,4.0,26,8.7
+28346,57.48,f,14.0,White/Caucasian,,Non-hispanic,3.0,29,10.3
+28512,51.64,f,18.0,White/Caucasian,,Non-hispanic,3.636,29,7.3
+28633,46.44,m,14.0,White/Caucasian,,Non-hispanic,3.636,29,5.33
+28582,48.45,m,15.0,White/Caucasian,,Non-hispanic,3.545,26,
+28598,84.06,f,15.0,American Indian/Alaskan Native,,Non-hispanic,4.0,27,3.37
+28571,20.57,m,14.0,White/Caucasian,,Non-hispanic,3.455,30,
+28337,53.34,f,21.0,White/Caucasian,,Non-hispanic,3.727,29,
+28431,47.63,m,18.0,White/Caucasian,,Non-hispanic,4.0,29,
+28442,29.32,f,11.0,Multiracial,,Hispanic/Latin(o/a),3.182,28,
+28373,48.4,f,14.0,White/Caucasian,,Non-hispanic,3.909,30,10.07
+28493,53.36,m,18.0,White/Caucasian,,Non-hispanic,3.727,28,8.0
+28475,54.05,m,21.0,White/Caucasian,,Non-hispanic,3.818,27,6.47
+28635,23.5,f,17.0,White/Caucasian,,Non-hispanic,3.273,28,
+28363,26.02,m,16.0,White/Caucasian,,Non-hispanic,3.636,29,
+28559,25.01,f,21.0,White/Caucasian,,Non-hispanic,3.545,30,
+28534,54.3,m,15.0,White/Caucasian,,Non-hispanic,4.0,28,4.93
+28383,72.96,m,18.0,White/Caucasian,,Non-hispanic,3.545,29,8.73
+28496,22.44,m,16.0,Black/African American,,Non-hispanic,4.0,29,
+28418,70.49,m,14.0,White/Caucasian,,Non-hispanic,3.364,27,5.97
+28579,21.77,f,15.0,White/Caucasian,,Non-hispanic,4.0,29,
+28367,29.58,f,16.0,White/Caucasian,,Non-hispanic,3.364,30,
+28624,81.96,f,18.0,White/Caucasian,,Non-hispanic,3.818,27,6.37
+28533,46.77,f,16.0,Other,,Hispanic/Latin(o/a),3.636,27,
+28539,24.22,f,16.0,White/Caucasian,,Non-hispanic,3.273,29,
+28575,81.02,m,21.0,White/Caucasian,,Non-hispanic,2.636,26,9.83
+28629,81.12,f,18.0,White/Caucasian,,Non-hispanic,3.545,30,5.73
+28489,70.28,f,21.0,White/Caucasian,,Non-hispanic,2.545,30,7.2
+28640,33.41,f,16.0,White/Caucasian,,Non-hispanic,3.273,28,9.6
+28620,70.66,f,16.0,White/Caucasian,,Non-hispanic,4.0,26,8.3
+28459,66.13,m,18.0,White/Caucasian,,Non-hispanic,3.636,27,5.23
+28484,70.08,m,16.0,White/Caucasian,,Non-hispanic,4.0,27,5.7
+28348,23.15,m,16.0,Asian American/Pacific Islander,,Non-hispanic,3.636,29,
+28517,23.14,m,17.0,Asian American/Pacific Islander,,Non-hispanic,4.0,29,
+28604,22.6,f,17.0,Asian American/Pacific Islander,,Non-hispanic,3.818,30,
+28607,66.74,m,18.0,White/Caucasian,,Non-hispanic,4.0,27,1.93
+28327,73.29,f,16.0,White/Caucasian,,Non-hispanic,3.727,30,3.13
+28601,71.54,m,18.0,White/Caucasian,,Non-hispanic,3.364,29,4.2
+28370,22.88,f,17.0,Multiracial,,Hispanic/Latin(o/a),3.636,28,
+28507,36.91,m,18.0,White/Caucasian,,Non-hispanic,3.091,28,
+28361,55.56,m,12.0,White/Caucasian,,Non-hispanic,3.727,30,7.4
+28618,26.36,f,12.0,White/Caucasian,,Non-hispanic,4.0,27,
+28449,28.96,f,18.0,White/Caucasian,,Non-hispanic,3.636,30,
+28522,34.99,f,16.0,Black/African American,,Non-hispanic,3.636,29,
+28514,34.44,m,18.0,Other,White - Mediterranean,Non-hispanic,4.0,27,
+28531,21.27,f,12.5,Multiracial,,Hispanic/Latin(o/a),3.636,30,
+28551,24.66,m,16.5,White/Caucasian,,Non-hispanic,3.364,28,
+28621,30.6,f,17.0,White/Caucasian,,Non-hispanic,3.545,28,
+28513,26.68,m,17.0,White/Caucasian,,Non-hispanic,3.636,28,
+28454,42.92,m,15.0,Asian American/Pacific Islander,,Non-hispanic,3.727,29,9.13
+28411,83.09,f,21.0,White/Caucasian,,Non-hispanic,4.0,29,7.1
+28546,21.71,m,15.0,White/Caucasian,,Non-hispanic,3.545,30,
+28538,76.39,f,16.0,White/Caucasian,,Non-hispanic,3.455,29,
+28364,24.49,f,16.0,White/Caucasian,,Non-hispanic,3.636,30,
+28390,22.5,m,16.0,White/Caucasian,,Hispanic/Latin(o/a),3.727,30,
+28359,71.2,f,12.0,White/Caucasian,,Hispanic/Latin(o/a),4.0,26,7.5
+28334,55.26,f,16.0,White/Caucasian,,Non-hispanic,4.0,29,
+28430,89.11,f,14.0,White/Caucasian,,Non-hispanic,3.364,28,2.87
+28487,73.56,f,15.0,White/Caucasian,,Non-hispanic,4.0,30,1.43
+28563,44.97,f,16.0,White/Caucasian,,Non-hispanic,4.0,30,9.7
+28445,55.37,m,21.0,Multiracial,,Hispanic/Latin(o/a),3.364,28,
+28453,73.26,f,16.0,White/Caucasian,,Non-hispanic,4.0,28,
+28481,41.87,f,15.0,Black/African American,,Non-hispanic,4.0,29,
+28465,21.67,f,14.0,Other,Hispanic,Hispanic/Latin(o/a),2.636,30,
+28511,23.55,f,21.0,Asian American/Pacific Islander,,Non-hispanic,4.0,28,
+28443,36.18,m,13.0,White/Caucasian,,Non-hispanic,4.0,30,
+28568,41.17,m,21.0,White/Caucasian,,Non-hispanic,4.0,28,8.0
+28552,48.86,f,14.5,White/Caucasian,,Non-hispanic,3.455,28,7.53
+28614,53.77,f,20.0,Multiracial,,Hispanic/Latin(o/a),3.909,29,10.3
+28417,31.77,f,21.0,Asian American/Pacific Islander,,Non-hispanic,3.273,28,
+28626,48.88,m,16.0,White/Caucasian,,Non-hispanic,3.636,26,9.73
+28393,61.69,m,18.0,White/Caucasian,,Non-hispanic,3.182,27,
+28573,44.29,m,13.0,White/Caucasian,,Non-hispanic,3.3,28,6.9
+28564,40.21,f,14.0,American Indian/Alaskan Native,,Non-hispanic,3.909,29,10.1
+28451,43.61,f,16.0,White/Caucasian,,Non-hispanic,3.818,30,7.1
+28415,32.05,f,16.0,Black/African American,,Non-hispanic,2.909,27,
+28585,31.4,f,15.0,White/Caucasian,,Non-hispanic,4.0,28,
+28386,33.13,f,15.0,Black/African American,,Non-hispanic,4.0,28,
+28391,36.03,m,18.0,White/Caucasian,,Non-hispanic,3.0,30,7.27
+28467,34.4,f,12.0,White/Caucasian,,Non-hispanic,3.364,30,
+28384,30.5,f,16.0,White/Caucasian,,Non-hispanic,4.0,28,9.17
+28328,30.47,m,16.0,White/Caucasian,,Non-hispanic,3.818,30,5.47
+28482,63.47,m,18.0,White/Caucasian,,Non-hispanic,3.636,28,4.47
+28353,60.01,m,17.0,White/Caucasian,,Non-hispanic,3.909,28,2.67
+28544,81.75,m,16.0,White/Caucasian,,Non-hispanic,3.091,27,
+28469,50.46,m,18.0,Multiracial,,Non-hispanic,3.545,29,
+28491,24.2,f,16.0,White/Caucasian,,Non-hispanic,3.273,27,
+28504,73.07,f,16.0,White/Caucasian,,Non-hispanic,4.0,28,3.77
+28506,86.38,f,14.5,White/Caucasian,,Non-hispanic,3.455,26,1.23
+28355,70.7,m,16.0,White/Caucasian,,Non-hispanic,4.0,27,3.53
+28356,43.21,f,16.0,White/Caucasian,,Non-hispanic,3.636,30,4.8
+28455,72.56,f,14.0,White/Caucasian,,Non-hispanic,4.0,27,
+28436,75.99,f,18.0,White/Caucasian,,Non-hispanic,3.455,29,1.0
+28478,70.35,f,21.0,White/Caucasian,,Non-hispanic,3.909,30,3.3
+28529,86.77,f,16.0,White/Caucasian,,Non-hispanic,4.0,27,3.3
+28466,74.5,m,12.0,White/Caucasian,,Non-hispanic,4.0,29,3.33
+28462,31.03,m,18.0,White/Caucasian,,Non-hispanic,3.545,27,
+28452,59.71,f,18.0,White/Caucasian,,Non-hispanic,3.273,28,2.37
+28588,48.53,m,15.0,White/Caucasian,,Non-hispanic,3.182,28,2.2
+28525,60.74,m,18.0,White/Caucasian,,Non-hispanic,3.727,30,
+28486,37.81,f,16.0,White/Caucasian,,Non-hispanic,4.0,29,
+28371,31.11,m,16.0,White/Caucasian,,Non-hispanic,3.364,30,4.73
+28483,47.0,f,18.0,White/Caucasian,,Non-hispanic,3.727,29,
+28634,38.33,f,16.0,Other,Latina,Hispanic/Latin(o/a),3.636,29,2.9
+28608,38.13,f,21.0,Asian American/Pacific Islander,,Non-hispanic,3.636,30,
+28458,35.43,f,14.0,White/Caucasian,,Non-hispanic,4.0,30,2.07
+28416,31.58,m,14.0,White/Caucasian,,Non-hispanic,3.091,28,2.87
+28329,30.74,m,16.0,White/Caucasian,,Non-hispanic,3.727,27,2.77
+28338,30.26,f,18.0,White/Caucasian,,Non-hispanic,3.364,30,3.13
+28341,34.81,f,18.0,White/Caucasian,,Non-hispanic,3.636,28,
+28535,80.11,f,16.0,White/Caucasian,,Non-hispanic,2.909,29,2.87
+28553,30.76,m,15.0,Other,white/hispanic mix,Hispanic/Latin(o/a),4.0,30,2.0
+28630,38.37,m,15.0,White/Caucasian,,Non-hispanic,3.727,27,
+28426,82.07,f,16.0,White/Caucasian,,Non-hispanic,4.0,27,3.23
+28623,30.31,f,18.0,Asian American/Pacific Islander,,Non-hispanic,3.545,29,3.5
+28609,85.77,m,18.0,White/Caucasian,,Non-hispanic,4.0,28,
+28502,82.54,f,12.0,White/Caucasian,,Non-hispanic,3.909,28,4.77
+28423,30.69,m,21.0,Other,Hispanic,Hispanic/Latin(o/a),2.636,28,
+28627,47.3,f,18.0,White/Caucasian,,Non-hispanic,3.455,30,
+28524,56.55,f,18.0,White/Caucasian,,Non-hispanic,4.0,28,
+28402,86.41,m,14.0,White/Caucasian,,Non-hispanic,,27,
+28464,82.43,f,15.0,White/Caucasian,,Non-hispanic,4.0,27,
+28595,87.68,f,17.0,White/Caucasian,,Non-hispanic,3.818,29,3.6
+28372,74.83,f,16.0,White/Caucasian,,Non-hispanic,3.636,29,2.67
+28330,35.36,f,14.0,White/Caucasian,,Non-hispanic,3.273,29,3.6
+28619,36.41,m,18.0,White/Caucasian,,Non-hispanic,4.0,29,
+28485,57.23,f,18.0,White/Caucasian,,Non-hispanic,3.636,29,
+28440,34.25,f,16.0,White/Caucasian,,Non-hispanic,3.818,28,1.43
+28536,82.57,m,21.0,White/Caucasian,,Non-hispanic,3.727,28,2.37
+28410,74.11,f,16.0,White/Caucasian,,Non-hispanic,3.909,28,2.9
+28437,64.01,f,14.0,White/Caucasian,,Non-hispanic,4.0,27,1.4
+28501,88.36,f,18.0,White/Caucasian,,Non-hispanic,4.0,29,0.57
+28473,56.11,f,15.0,White/Caucasian,,Non-hispanic,4.0,30,
+28347,85.66,f,14.0,White/Caucasian,,Non-hispanic,3.273,28,
+28594,80.29,m,18.0,White/Caucasian,,Non-hispanic,3.909,26,2.4
+28606,81.91,f,13.0,White/Caucasian,,Non-hispanic,3.545,28,2.8
+28382,88.07,f,18.0,White/Caucasian,,Non-hispanic,4.0,26,2.4
+28583,80.54,f,13.5,White/Caucasian,,Non-hispanic,4.0,30,
+28516,88.14,m,13.0,,,Non-hispanic,3.636,27,1.2
+28405,86.45,f,16.0,White/Caucasian,,Non-hispanic,3.909,27,
+28395,83.87,m,18.0,White/Caucasian,,Non-hispanic,3.727,26,1.0
+28503,88.32,f,12.0,White/Caucasian,,Non-hispanic,4.0,27,2.87
+28397,35.33,f,17.0,White/Caucasian,,Non-hispanic,3.091,29,
+28610,80.82,m,16.0,White/Caucasian,,Non-hispanic,3.273,27,
+28446,50.89,m,16.0,Black/African American,,Non-hispanic,4.0,29,0.73
+28433,80.5,f,16.0,White/Caucasian,,Non-hispanic,4.0,28,
+28435,33.01,m,18.0,Asian American/Pacific Islander,,Non-hispanic,3.818,30,
+28597,52.52,m,16.0,White/Caucasian,,Non-hispanic,3.909,30,
+28581,74.58,f,12.0,White/Caucasian,,Non-hispanic,4.0,28,0.6
+28567,85.6,f,14.0,White/Caucasian,,Non-hispanic,4.0,27,1.87
+28540,71.04,f,16.0,White/Caucasian,,Non-hispanic,4.0,29,
+28342,31.98,f,17.0,Asian American/Pacific Islander,,Non-hispanic,3.0,30,
+28637,44.54,f,16.0,White/Caucasian,,Hispanic/Latin(o/a),3.818,30,
+28526,42.6,m,14.0,White/Caucasian,,Non-hispanic,3.273,28,
+28472,42.45,m,16.0,White/Caucasian,,Non-hispanic,3.182,28,
+28547,32.13,f,15.0,White/Caucasian,,Non-hispanic,4.0,30,
+28406,47.65,m,13.0,American Indian/Alaskan Native,,Non-hispanic,2.909,30,
+28556,36.97,f,21.0,White/Caucasian,,Non-hispanic,3.818,30,
+28422,32.91,f,21.0,White/Caucasian,,Non-hispanic,3.909,28,
