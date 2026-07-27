@@ -11,6 +11,7 @@ Official implementation of **MAR3D**, an attention-based mid-level feature repre
 Brain age estimation aims to predict the biological age of the brain from neuroimaging data. The discrepancy between predicted brain age and chronological age can provide a useful imaging biomarker for abnormal brain aging and may support early risk assessment for neurodegenerative and metabolic disorders.
 
 MAR3D is designed for 3D MRI-based brain age estimation. It combines a 3D ResNet backbone with an attention mechanism-based module, named **AM Block**, to refine mid-level feature representations. The AM Block uses max-pooling sampling, regional multi-head attention, and max-unpooling based spatial restoration to enhance cross-regional feature modeling while preserving the 3D structure of brain MRI.
+
 <img width="473" height="212" alt="mar3d-34" src="https://github.com/user-attachments/assets/b54443bc-c403-483b-9ba5-e5054d6c1a38" />
 
 ## Highlights
@@ -25,7 +26,9 @@ MAR3D is designed for 3D MRI-based brain age estimation. It combines a 3D ResNet
 ## Data Preparation
 
 Public MRI datasets are not redistributed in this repository. Please download the datasets from their official sources and follow their licenses and data-use agreements.
+
 <img width="458" height="258" alt="preprocessing" src="https://github.com/user-attachments/assets/90f48b49-1848-4913-8b65-9a011ab8f906" />
+
 The paper used six public datasets:
 
 | Dataset | Samples | Age range | Mean age |
